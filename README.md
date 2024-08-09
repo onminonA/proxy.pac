@@ -14,6 +14,12 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
 <br>
 
+### Постоянная ссылка на удалённый PAC-файл с проксированием видеопотока Youtube через Ваш туннель:
+
+https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
+>**Проверка обновлённых данных выполняется каждые 4 часа.**  
+
+
 ---
 
 <br>
@@ -27,4 +33,11 @@ Modified Proxy Auto Configuration (PAC) file from **antizapret.prostovpn.org** w
 ### Permanent link to the remote PAC file:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
+>**Updated data is checked every 4 hours.**  
+
+<br>
+
+### Permanent link to the remote PAC file with Youtube video stream proxying through your tunnel:
+
+https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 >**Updated data is checked every 4 hours.**  
