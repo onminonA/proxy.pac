@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 >**Проверка обновлённых данных выполняется каждые 4 часа.**  
 
+<br>
+
 
 ---
 
