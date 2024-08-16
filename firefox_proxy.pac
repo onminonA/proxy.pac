@@ -931,7 +931,8 @@ function FindProxyForURL(url, host) {
   fbtw = ['twitter.com', 'twimg.com', 't.co', 'x.com',
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
-          'fb.com', 'messenger.com'
+          'fb.com', 'messenger.com',
+          'ytimg.com', 'youtube.com', 'googleapis.com', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be', 'googlevideo.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
     return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
