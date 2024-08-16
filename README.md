@@ -62,3 +62,8 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 >**Updated data is checked 1 time in 24 hours.** 
+
+<br>
+
+
+---
