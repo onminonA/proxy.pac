@@ -21,6 +21,15 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 
 <br>
 
+###  Для Firefox и браузеров на основе Firefox.
+>Запуск браузера, первичная загрузка/принудительное обновление PAC-файла, может **временно нарушить доступность всех сайтов в браузере до нескольких минут** (из-за большого объёма данных).
+#### Постоянная ссылка на удалённый PAC-файл, применимо ТОЛЬКО в Firefox и в браузерах на основе Firefox:
+
+https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
+>**Проверка обновлённых данных выполняется 1 раз в 24 часа.**
+
+<br>
+
 
 ---
 
@@ -42,4 +51,14 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 ### Permanent link to the remote PAC file with Youtube video stream proxying through your tunnel:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
->**Updated data is checked every 4 hours.**  
+>**Updated data is checked every 4 hours.**
+
+<br>
+
+### For Firefox and Firefox-based browsers.
+>Launching the browser, the initial download/forced update of the PAC file can **temporarily disrupt the availability of all sites in the browser for up to few minutes** (due to the large amount of data).
+
+#### Permanent link to the remote PAC file, applicable ONLY for Firefox and Firefox-based browsers:
+
+https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
+>**Updated data is checked 1 time in 24 hours.** 
