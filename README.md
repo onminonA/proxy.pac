@@ -1,6 +1,6 @@
 
 
-### RU - [EN](https://github.com/onminonA/proxy.pac#en---ru)
+### RU - [EN](https://github.com/onminonA/proxy.pac#en--ru)
 
 Модифицированный PAC-файл **antizapret.prostovpn.org** с перенаправлением на Ваш локальный прокси-сервер (127.0.0.1:1080).  
 Например при использовании [XRay](https://github.com/XTLS/Xray-examples), для [ShadowSocks (Удалённый PAC)](https://github.com/onminonA/proxy.pac/wiki#shadowsocks), для [Firefox (URL автоматической настройки прокси)](https://github.com/onminonA/proxy.pac/wiki#firefox), для [Системного прокси Windows](https://github.com/onminonA/proxy.pac/wiki#%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-windows) и т.д.
