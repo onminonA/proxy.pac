@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 
 ###  Для Firefox и браузеров на основе Firefox:
 >Запуск браузера, первичная загрузка/принудительное обновление PAC-файла, может **временно нарушить доступность всех сайтов в браузере до нескольких минут** (из-за большого объёма данных).
-#### Постоянная ссылка на удалённый PAC-файл, применимо ТОЛЬКО в Firefox и в браузерах на основе Firefox:
+#### Постоянная ссылка на удалённый PAC-файл [(какие ещё хосты были добавлены?)](https://github.com/onminonA/proxy.pac/wiki/firefox_proxy%28_yt%29.pac#ru---en), применимо ТОЛЬКО в Firefox и в браузерах на основе Firefox:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 ### For Firefox and Firefox-based browsers:
 >Launching the browser, the initial download/forced update of the PAC file can **temporarily disrupt the availability of all sites in the browser for up to few minutes** (due to the large amount of data).
 
-#### Permanent link to the remote PAC file, applicable ONLY for Firefox and Firefox-based browsers:
+#### Permanent link to the remote PAC file [(what other hosts have been added?)](https://github.com/onminonA/proxy.pac/wiki/firefox_proxy%28_yt%29.pac#en---ru), applicable ONLY for Firefox and Firefox-based browsers:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 >**Updated data is checked 1 time in 24 hours.** 
