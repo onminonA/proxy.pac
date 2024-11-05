@@ -923,7 +923,7 @@ function FindProxyForURL(url, host) {
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
           'fb.com', 'messenger.com',
-          'ytimg.com', 'discord.com', 'discord.gg', 'discord.media', 'discordapp.com', 'discordapp.net', 'discordcdn.com', 'youtube.com', 'googleapis.com', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be', 'googlevideo.com'
+          'ytimg.com', 'cloudflare-ech.com', 'discord.com', 'discord.gg', 'discord.media', 'discordapp.com', 'discordapp.net', 'discordcdn.com', 'youtube.com', 'googleapis.com', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be', 'googlevideo.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
 return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
