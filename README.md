@@ -10,14 +10,16 @@
 ### Постоянная ссылка на удалённый PAC-файл:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
->**Проверка обновлённых данных выполняется 1 раз в 24 часа.**  
+>**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
+>[Какие ещё хосты были добавлены в proxy.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#ru---en)
 
 <br>
 
 ### Постоянная ссылка на удалённый PAC-файл с проксированием видеопотока Youtube через Ваш туннель:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
->**Проверка обновлённых данных выполняется 1 раз в 24 часа.**  
+>**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
+>[Какие ещё хосты были добавлены в proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#ru---en)
 
 <br>
 
@@ -27,7 +29,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
->[Какие ещё хосты были добавлены в firefox_proxy.pac](https://github.com/onminonA/proxy.pac/wiki/firefox_proxy%28_yt%29.pac#ru---en)
+>[Какие ещё хосты были добавлены в firefox_proxy.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#ru---en)
 
 <br>
 
@@ -37,7 +39,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy_yt.pac
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
->[Какие ещё хосты были добавлены в firefox_proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/firefox_proxy%28_yt%29.pac#ru---en)
+>[Какие ещё хосты были добавлены в firefox_proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#ru---en)
 
 <br>
 
@@ -56,13 +58,15 @@ Modified Proxy Auto Configuration (PAC) file from **antizapret.prostovpn.org** w
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 >**Updated data is checked 1 time in 24 hours.**   
+>[What other hosts have been added to proxy.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#en---ru)
 
 <br>
 
 ### Permanent link to the remote PAC file with Youtube video stream proxying through your tunnel:
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
->**Updated data is checked 1 time in 24 hours.**  
+>**Updated data is checked 1 time in 24 hours.**   
+>[What other hosts have been added to proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#en---ru)
 
 <br>
 
@@ -73,7 +77,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 >**Updated data is checked 1 time in 24 hours.**   
->[What other hosts have been added to firefox_proxy.pac](https://github.com/onminonA/proxy.pac/wiki/firefox_proxy%28_yt%29.pac#en---ru)
+>[What other hosts have been added to firefox_proxy.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#en---ru)
 
 <br>
 
@@ -84,7 +88,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy_yt.pac
 >**Updated data is checked 1 time in 24 hours.**   
->[What other hosts have been added to firefox_proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/firefox_proxy%28_yt%29.pac#en---ru)
+>[What other hosts have been added to firefox_proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#en---ru)
 
 <br>
 
