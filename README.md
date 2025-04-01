@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 ### For Firefox and Firefox-based browsers with Youtube video stream proxying through your tunnel:
 >Launching the browser, the initial download/forced update of the PAC file, in rare cases can **temporarily disrupt the availability of all sites in the browser for up to few minutes** (due to the large amount of data).
 
-#### Permanent link to the remote PAC file (with Youtube video stream proxying through your tunnel), applicable ONLY for Firefox and Firefox-based browsers:
+#### Permanent link to the remote PAC file with Youtube video stream proxying through your tunnel, applicable ONLY for Firefox and Firefox-based browsers:
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy_yt.pac
 >**Updated data is checked 1 time in 24 hours.**   
 >[What other hosts have been added to firefox_proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#en---ru)
