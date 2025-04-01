@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
 ###  Для Firefox и браузеров на основе Firefox с проксированием видеопотока Youtube через Ваш туннель:
 >Запуск браузера, первичная загрузка/принудительное обновление PAC-файла, в редких случаях может **временно нарушить доступность всех сайтов в браузере до нескольких минут** (из-за большого объёма данных).
 
-#### Постоянная ссылка на удалённый PAC-файл (с проксированием видеопотока Youtube через Ваш туннель), применимо ТОЛЬКО в Firefox и в браузерах на основе Firefox:
+#### Постоянная ссылка на удалённый PAC-файл с проксированием видеопотока Youtube через Ваш туннель, применимо ТОЛЬКО в Firefox и в браузерах на основе Firefox:
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy_yt.pac
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
 >[Какие ещё хосты были добавлены в firefox_proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/(firefox_)proxy(_yt).pac#ru---en)
