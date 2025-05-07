@@ -6,20 +6,25 @@ function FindProxyForURL(url, host) {
     var proxyServer = "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
 
     var directDomains = [
-        ".ru",
-        ".su",
-        ".xn--p1ai", // .рф
-        ".kz",
-        ".ru.com",
-        ".xn--p1acf", // .рус
         ".am",
-        ".ru.net",
-        ".moscow",
-        ".xn--80adxhks", // .москва
-        ".tatar",
+        ".cn",
+        ".kz",
         ".md",
+        ".moscow",
+        ".ru",
+        ".ru.com",
+        ".ru.net",
+        ".su",
+        ".tatar",
         ".tj",
-        ".tm"
+        ".tm",
+        ".xn--55qx5d", // .公司
+        ".xn--80adxhks", // .москва
+        ".xn--fiqs8s", // .中国
+        ".xn--fiqz9s", // .中國
+        ".xn--io0a7i", // .网络
+        ".xn--p1acf", // .рус
+        ".xn--p1ai" // .рф
     ];
 
     for (var i = 0; i < directDomains.length; i++) {
