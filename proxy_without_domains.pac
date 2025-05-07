@@ -11,6 +11,7 @@ function FindProxyForURL(url, host) {
         ".kz",
         ".md",
         ".moscow",
+        ".mvk.com",
         ".ru",
         ".ru.com",
         ".ru.net",
@@ -18,6 +19,15 @@ function FindProxyForURL(url, host) {
         ".tatar",
         ".tj",
         ".tm",
+        ".trbcdn.net",
+        ".vk.cc",
+        ".vk.com",
+        ".vk-cdn.me",
+        ".vk-cdn.net",
+        ".vk-portal.net",
+        ".yadi.sk",
+        ".yandex.net",
+        ".yastatic.net",
         ".xn--55qx5d", // .公司
         ".xn--80adxhks", // .москва
         ".xn--fiqs8s", // .中国
