@@ -12,6 +12,7 @@ function FindProxyForURL(url, host) {
         ".md",
         ".moscow",
         ".mvk.com",
+        ".ozonusercontent.com",        
         ".ru",
         ".ru.com",
         ".ru.net",
