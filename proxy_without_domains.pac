@@ -23,12 +23,15 @@ function FindProxyForURL(url, host) {
         "avito.st",
         "avs.io",
         "betweendigital.com",
+        "bitrix.info",
         "boosty.to",
         "buzzoola.com",
         ".by", // .by
         "cian.site",
         ".cn", // .cn
         "diginetica.net",
+        "dodois.io",
+        "dodostatic.net",
         "drweb.com",
         "flomni.com",
         "gdz.work",
