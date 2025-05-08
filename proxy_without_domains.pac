@@ -7,12 +7,16 @@ function FindProxyForURL(url, host) {
 
     var directDomains = [
         ".am",
+        ".az",
         ".by",
         ".cn",
+        ".ge",
+        ".ir",
         ".kg",
         ".kp",
         ".kz",
         ".md",
+        ".mn",
         ".moscow",
         ".ru",
         ".ru.com",
@@ -21,6 +25,7 @@ function FindProxyForURL(url, host) {
         ".tatar",
         ".tj",
         ".tm",
+        ".uz",
         ".xn--55qx5d", // .公司
         ".xn--80adxhks", // .москва
         ".xn--fiqs8s", // .中国
