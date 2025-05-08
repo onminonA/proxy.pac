@@ -68,7 +68,7 @@ function FindProxyForURL(url, host) {
         "taobao.com",
         "targetads.io",
         ".tatar", // .tatar
-        ".terratraf.com",
+        "terratraf.com",
         ".tj", // .tj
         ".tm", // .tm
         "tsargrad.tv",
