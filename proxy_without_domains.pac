@@ -6,10 +6,34 @@ function FindProxyForURL(url, host) {
     var proxyServer = "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
 
     var directDomains = [
+        ".am",
+        ".by",
+        ".cn",
+        ".kg",
+        ".kp",
+        ".kz",
+        ".md",
+        ".moscow",
+        ".ru",
+        ".ru.com",
+        ".ru.net",
+        ".su",
+        ".tatar",
+        ".tj",
+        ".tm",
+        ".xn--55qx5d", // .公司
+        ".xn--80adxhks", // .москва
+        ".xn--fiqs8s", // .中国
+        ".xn--fiqz9s", // .中國
+        ".xn--io0a7i", // .网络
+        ".xn--p1acf", // .рус
+        ".xn—p1ai", // .рф
         "2gis.com",
         "4pda.to",
         "4pda.ws",
+        "24smi.net",
         "adhigh.net",
+        "advertronic.io",
         "aestatic.net",
         "aftershock.news",
         "al-adtech.com",
@@ -18,7 +42,6 @@ function FindProxyForURL(url, host) {
         "alicdn.com",
         "aliexpress-media.com",
         "aliexpress.com",
-        ".am", // .am
         "aviasales.com",
         "avito.st",
         "avs.io",
@@ -26,9 +49,10 @@ function FindProxyForURL(url, host) {
         "bitrix.info",
         "boosty.to",
         "buzzoola.com",
-        ".by", // .by
+        "championat.com",
         "cian.site",
-        ".cn", // .cn
+        "corr.life",
+        "criteo.net",
         "diginetica.net",
         "dodois.io",
         "dodostatic.net",
@@ -38,6 +62,8 @@ function FindProxyForURL(url, host) {
         "gismeteo.net",
         "gismeteo.st",
         "group-ib.com",
+        "hibiny.com",
+        "img.smi2.net",
         "ixbt.com",
         "ixbt.online",
         "ixbt.site",
@@ -46,60 +72,52 @@ function FindProxyForURL(url, host) {
         "kp.house",
         "kpcdn.net",
         "krut.link",
-        ".kg", // .kg
-        ".kp", // .kp
-        ".kz", // .kz
+        "lentainform.com",
         "livejournal.com",
         "livejournal.net",
-        ".md", // .md
         "megamarket.tech",
         "mmstat.com",
-        ".moscow", // .moscow
         "mradx.net",
         "mvk.com",
         "mycdn.me",
         "naydex.net",
         "ozonusercontent.com",
+        "panda.video",
+        "pingdom.net",
+        "primamedia.company",
+        "push4site.com",
         "r-99.com",
-        ".ru", // .ru
-        ".ru.com", // .ru.com
-        ".ru.net", // .ru.net
+        "rt.com",
+        "rteam.tech",
+        "russiatoday.com",
         "sberbank.com",
+        "setka.news",
         "skcrtxr.com",
         "smi2.net",
-        ".su", // .su
+        "smi2.tech",
         "taobao.com",
         "targetads.io",
-        ".tatar", // .tatar
         "terratraf.com",
-        ".tj", // .tj
-        ".tm", // .tm
-        "tsargrad.tv",
         "trbcdn.net",
         "trex.media",
+        "tsargrad.tv",
         "turbopages.org",
         "uma.media",
+        "ura.news",
         "userapi.com",
         "viqeo.tv",
-        "vk.cc",
-        "vk.com",
         "vk-cdn.me",
         "vk-cdn.net",
         "vk-portal.net",
+        "vk.cc",
+        "vk.com",
         "vkuser.net",
         "webvisor.org",
         "yadi.sk",
         "yandex.net",
         "yandexcloud.net",
         "yaplakal.com",
-        "yastatic.net",
-        ".xn--55qx5d", // .公司
-        ".xn--80adxhks", // .москва
-        ".xn--fiqs8s", // .中国
-        ".xn--fiqz9s", // .中國
-        ".xn--io0a7i", // .网络
-        ".xn--p1acf", // .рус
-        ".xn--p1ai" // .рф
+        "yastatic.net"
     ];
 
     for (var i = 0; i < directDomains.length; i++) {
