@@ -41,6 +41,7 @@ function FindProxyForURL(url, host) {
         ".kpcdn.net",
         ".krut.link",
         ".kg",
+        ".kp",
         ".kz",
         ".livejournal.com",
         ".livejournal.net",
