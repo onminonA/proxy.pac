@@ -63,7 +63,6 @@ function FindProxyForURL(url, host) {
         "gismeteo.st",
         "group-ib.com",
         "hibiny.com",
-        "img.smi2.net",
         "ixbt.com",
         "ixbt.online",
         "ixbt.site",
