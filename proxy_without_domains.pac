@@ -28,6 +28,7 @@ function FindProxyForURL(url, host) {
         ".uz",
         ".xn--55qx5d", // .公司
         ".xn--80adxhks", // .москва
+        ".xn--d1acj3b", // .дети
         ".xn--fiqs8s", // .中国
         ".xn--fiqz9s", // .中國
         ".xn--io0a7i", // .网络
