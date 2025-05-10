@@ -147,9 +147,23 @@ function FindProxyForURL(url, host) {
         "yandex.net",
         "yandexcloud.net",
         "yaplakal.com",
-        "yastatic.net",
-        "zaycev.net"
+        "yastatic.net"
     ];
+
+    var proxyDomains = [
+        "bestchange.ru",
+        "intel.ru",
+        "lordfilm.ru",
+        "moscowtimes.ru",
+        "novayagazeta.ru",
+        "zaycev-net.ru"
+    ];
+
+    for (var i = 0; i < proxyDomains.length; i++) {
+        if (host === proxyDomains[i] || dnsDomainIs(host, "." + proxyDomains[i])) {
+            return proxyServer;
+        }
+    }
 
     for (var i = 0; i < directDomains.length; i++) {
         if (dnsDomainIs(host, directDomains[i])) {
