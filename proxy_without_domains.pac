@@ -153,7 +153,6 @@ function FindProxyForURL(url, host) {
     var proxyDomains = [
         "bestchange.ru",
         "intel.ru",
-        "lordfilm.ru",
         "moscowtimes.ru",
         "novayagazeta.ru",
         "zaycev-net.ru"
