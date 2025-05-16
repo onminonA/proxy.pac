@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy_yt.pac
 
 <br>
 
-### Постоянная ссылка на удалённый PAC-файл с перенаправлением всего трафика, кроме на IP РФ:
+### Постоянная ссылка на удалённый PAC-файл с проксированием всего трафика, кроме на IP РФ:
 [https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac](https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac)
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
 
