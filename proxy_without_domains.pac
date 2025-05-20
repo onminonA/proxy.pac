@@ -16,7 +16,7 @@ function FindProxyForURL(url, host) {
     }
 
     var proxyDomains = [
-        'bestchange.ru', 'intel.ru', 'moscowtimes.ru', 'novayagazeta.ru', 'zaycev-net.ru'
+        'bestchange.ru', 'intel.ru', 'moscowtimes.ru', 'novayagazeta.ru'
     ];
 
     for (var i = 0; i < proxyDomains.length; i++) {
