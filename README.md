@@ -2,7 +2,7 @@
 
 ### RU - [EN](https://github.com/onminonA/proxy.pac#en---ru)
 
-PAC-файл [**_proxy_without_domains.pac_**](https://github.com/onminonA/proxy.pac#%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9-pac-%D1%84%D0%B0%D0%B9%D0%BB-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D0%B2%D1%81%D0%B5%D0%B3%D0%BE-%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0-%D0%BA%D1%80%D0%BE%D0%BC%D0%B5-%D0%BD%D0%B0-ip-%D0%B0%D0%B4%D1%80%D0%B5c%D0%B0-%D1%80%D1%84-%D0%B7%D0%B0-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2) перенаправляет весь трафик в туннель (127.0.0.1:1080), **за исключением трафика** на IP-адреса, официально закрепленных за РФ (за исключением некоторых доменов).  
+PAC-файл [**_proxy_without_domains.pac_**](https://github.com/onminonA/proxy.pac#%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9-pac-%D1%84%D0%B0%D0%B9%D0%BB-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D0%B2%D1%81%D0%B5%D0%B3%D0%BE-%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0-%D0%BA%D1%80%D0%BE%D0%BC%D0%B5-%D0%BD%D0%B0-ip-%D0%B0%D0%B4%D1%80%D0%B5c%D0%B0-%D1%80%D1%84-%D0%B7%D0%B0-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2) перенаправляет весь трафик в туннель (127.0.0.1:1080), **за исключением трафика** на IP-адреса, официально закрепленных за РФ (за исключением некоторых ip и доменов).  
 
 PAC-файлы применимы, например при использовании [XRay](https://github.com/XTLS/Xray-examples), для [Firefox (URL автоматической настройки прокси)](https://github.com/onminonA/proxy.pac/wiki#firefox), для [Системного прокси Windows](https://github.com/onminonA/proxy.pac/wiki#%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-windows), для [ShadowSocks (Удалённый PAC)](https://github.com/onminonA/proxy.pac/wiki#shadowsocks) и т.д.
 
@@ -11,7 +11,7 @@ PAC-файлы применимы, например при использова�
 
 <br>
 
-### Постоянная ссылка на удалённый PAC-файл с проксированием всего трафика, кроме на IP-адреcа РФ (за исключением некоторых доменов):
+### Постоянная ссылка на удалённый PAC-файл с проксированием всего трафика, кроме на IP-адреcа РФ (за исключением некоторых ip и доменов):
 [https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac](https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac)
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
 
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 
 ### EN - [RU](https://github.com/onminonA/proxy.pac#ru---en)
 
-The PAC file [**proxy_without_domains.pac**](https://github.com/onminonA/proxy.pac#permanent-link-to-the-remote-pac-file-with-proxying-of-all-traffic-except-for-ips-of-the-russian-federation-with-the-exception-of-some-domains) redirects all traffic to the tunnel (127.0.0.1:1080), except for traffic to IP addresses officially assigned to the Russian Federation (with the exception of some domains).  
+The PAC file [**proxy_without_domains.pac**](https://github.com/onminonA/proxy.pac#permanent-link-to-the-remote-pac-file-with-proxying-of-all-traffic-except-for-ips-of-the-russian-federation-with-the-exception-of-some-domains) redirects all traffic to the tunnel (127.0.0.1:1080), except for traffic to IP addresses officially assigned to the Russian Federation (with the exception of some ip and domains).  
 
 PAC files are applicable, for example, when using [XRay](https://github.com/XTLS/Xray-examples), for [Firefox (Automatic proxy configuration URL)](https://github.com/onminonA/proxy.pac/wiki#firefox-1), for [System Proxy Windows:](https://github.com/onminonA/proxy.pac/wiki#system-proxy-windows), for [ShadowSocks (Online PAC)](https://github.com/onminonA/proxy.pac/wiki#shadowsocks-1) and etc.
 
@@ -47,7 +47,7 @@ The **proxy.pac** and **proxy_yt.pac** files are not being updated with new data
 
 <br>
 
-### Permanent link to the remote PAC file with proxying of all traffic except for IPs of the Russian Federation (with the exception of some domains):
+### Permanent link to the remote PAC file with proxying of all traffic except for IPs of the Russian Federation (with the exception of some ip and domains):
 [https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac](https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac)
 >**Updated data is checked 1 time in 24 hours.**   
 
