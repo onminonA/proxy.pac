@@ -1,4 +1,4 @@
-// Generated on Fri, 09 Jan 2026 02:45:44 +0000
+// Generated on Sat, 10 Jan 2026 02:33:30 +0000
 // All routes redirects through the tunnel, except for traffic to IPs officially assigned to the Russian Federation (with the exception of some ip and domains).
 // Через туннель проходят все маршруты, за исключением трафика на IP-адреса официально закрепленных за РФ (за исключением некоторых ip и доменов).
 
