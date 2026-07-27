@@ -1,4 +1,4 @@
-// Generated on Sun, 26 Jul 2026 01:09:08 +0000
+// Generated on Mon, 27 Jul 2026 01:12:59 +0000
 // All routes redirects through the tunnel, except for traffic to IPs officially assigned to the Russian Federation (with the exception of some ip and domains).
 // Через туннель проходят все маршруты, за исключением трафика на IP-адреса официально закрепленных за РФ (за исключением некоторых ip и доменов).
 
@@ -40,21 +40,25 @@ function FindProxyForURL(url, host) {
    }
 
    var directTLDs = [
-      '.am','.az','.by','.cn','.ge','.ir','.kg','.kp','.kz','.md','.mn','.moscow','.ru','.ru.com','.ru.net','.sbp','.su','.tatar','.tj','.tm','.uz',
+      '.am','.az','.by','.cn','.gazprom','.ge','.ir','.kg','.kp','.kz','.md','.mn','.moscow','.rosneft','.ru','.ru.com','.ru.net','.sberbank','.sbp','.su','.tatar','.tj','.tm','.uz','.vtb',
       '.xn--55qx5d', // .公司
+      '.xn--80abnmycp7evc', // .сбербанк
       '.xn--80adxhks', // .москва
+      '.xn--80afpsfd', // .газпром
       '.xn--80asehdb', // .онлайн
       '.xn--80aswg', // .сайт
       '.xn--90a3ac', // .срб
       '.xn--90ais', // .бел
       '.xn--c1avg', // .орг
       '.xn--d1acj3b', // .дети
+      '.xn--d1acpjx3f', // .яндекс
       '.xn--fiqs8s', // .中国
       '.xn--fiqz9s', // .中國
       '.xn--io0a7i', // .网络
       '.xn--l1acc', // .мон
       '.xn--p1acf', // .рус
-      '.xn--p1ai' // .рф
+      '.xn--p1ai', // .рф
+      '.yandex'
    ];
 
    for (var j = 0; j < directTLDs.length; j++) {
