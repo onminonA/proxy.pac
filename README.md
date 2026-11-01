@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 <br>
 
 ### Permanent link to the remote PAC file with proxying of all traffic except for IPs of the Russian Federation (with the exception of some ip and domains):
-_You may [experience long page loading times](https://github.com/onminonA/proxy.pac/issues/9) when using this feature._   
+_You may [experience long pages loading times](https://github.com/onminonA/proxy.pac/issues/9) when using this feature._   
 <br>
 [https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac](https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac)
 >**Updated data is checked 1 time in 24 hours.**   
