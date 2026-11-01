@@ -42,7 +42,7 @@ _При использовании этого варианта возможны 
 
 Modified (**antizapret.prostovpn.org**) Proxy Auto Configuration (PAC) files [**_proxy_yt.pac_**](https://github.com/onminonA/proxy.pac#permanent-link-to-the-remote-pac-file-with-youtube-video-stream-proxying-through-your-tunnel) and [**_proxy.pac_**](https://github.com/onminonA/proxy.pac#permanent-link-to-the-remote-pac-file) with redirect blocked in Russia traffic to your own local proxy (127.0.0.1:1080).  
 
-The PAC file [**proxy_without_domains.pac**](https://github.com/onminonA/proxy.pac#permanent-link-to-the-remote-pac-file-with-youtube-video-stream-proxying-through-your-tunnel) redirects all traffic to the tunnel (127.0.0.1:1080), except for traffic to IP addresses officially assigned to the Russian Federation (with the exception of some ip and domains).  
+The PAC file [**proxy_without_domains.pac**](https://github.com/onminonA/proxy.pac#permanent-link-to-the-remote-pac-file-with-proxying-of-all-traffic-except-for-ips-of-the-russian-federation-with-the-exception-of-some-ip-and-domains) redirects all traffic to the tunnel (127.0.0.1:1080), except for traffic to IP addresses officially assigned to the Russian Federation (with the exception of some ip and domains).  
 
 PAC files are applicable, for example, when using [XRay](https://github.com/XTLS/Xray-examples), for [Firefox (Automatic proxy configuration URL)](https://github.com/onminonA/proxy.pac/wiki#firefox-1), for [System Proxy Windows:](https://github.com/onminonA/proxy.pac/wiki#system-proxy-windows), for [ShadowSocks (Online PAC)](https://github.com/onminonA/proxy.pac/wiki#shadowsocks-1) and etc.
 
