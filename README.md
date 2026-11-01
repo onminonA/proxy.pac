@@ -25,7 +25,9 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
 <br>
 
-### Постоянная ссылка на удалённый PAC-файл с проксированием всего трафика, кроме на IP-адреcа РФ (за исключением некоторых ip и доменов):
+### Постоянная ссылка на удалённый PAC-файл с проксированием всего трафика, кроме на IP-адреcа РФ (за исключением некоторых ip и доменов):   
+_При использовании этого варианта возможны [замедления открытия страниц.](https://github.com/onminonA/proxy.pac/issues/9)_   
+<br>
 [https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac](https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_without_domains.pac)
 >**Проверка обновлённых данных выполняется 1 раз в 24 часа.**   
 
@@ -46,7 +48,9 @@ PAC files are applicable, for example, when using [XRay](https://github.com/XTLS
 
 <br>
 
-### Permanent link to the remote PAC file with Youtube video stream proxying through your tunnel:
+### Permanent link to the remote PAC file with Youtube video stream proxying through your tunnel:   
+You may [experience long page loading times](https://github.com/onminonA/proxy.pac/issues/9) when using this feature.   
+<br>
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy_yt.pac
 >**Updated data is checked 1 time in 24 hours.**   
 >[What other hosts have been added to proxy_yt.pac](https://github.com/onminonA/proxy.pac/wiki/proxy(_yt).pac#en---ru)
